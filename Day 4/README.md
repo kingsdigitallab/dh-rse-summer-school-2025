@@ -11,7 +11,9 @@ Responsible digital research adopts ethical and sustainable methodologies to min
 Please have a look at the following blogs/sources
 - [Greener Code with Python](https://www.suso.academy/en/2023/03/13/green-coding-the-5-most-important-basics-for-sustainable-software-development-with-code-examples/)
 - [Green Code for Beginners](https://arvid.tech/green-code-for-beginners/)
-- 
+- [Digital Humanities Climate Coalition Toolkit](https://sas-dhrh.github.io/dhcc-toolkit/)
+- [Green Software Use on HPC](https://carpentries-incubator.github.io/green-software-hpc/)
+  
 For the Green-coding exercise, we are going to use [Colab](https://colab.google/). To get set up please use the instructions below
 1. Open Google Colab: [https://colab.research.google.com](https://colab.research.google.com)
 2. If you are not already logged in, you will be prompted to log in via Gmail
@@ -22,22 +24,26 @@ For the Green-coding exercise, we are going to use [Colab](https://colab.google/
 
 ## Schedule
 
-**Note: Please leave break times where they are. Within the session times you can carve it up however you like.**
-
-- 09:00-09:10 Mini-talk: _TBC_ (_TBC_)
-- 09.10-10:30 Talks session 1
+- 09:00-09:10 Mini-talk: UKIE DH Association
+- 09.10-09:45 _Welcome and introduction to the work of the Centre for Data, Culture & Society and the Digital Humanities Climate Coalition_ **L. Otty**
+- 09:45-10:30 _Responsible Data Collection_ **L. Michielin** & **J. Witte**
 - 10:30-11:00 COFFEE BREAK
-- 11:00-11:45 Andy Turner
-- 11:45-12:30 Christopher Ohge
+- 11:00-11:45 _Estimating carbon emissions from high performance computing_ **A. Turner**
+- 11:45-12:30 _Minimal Computing for Digital Research and Publishing_ **C. Ohge**
 - 12:30-13:30 LUNCH
-- 13:30-15:00 Workshop session 1
+- 13:30-15:00 Greening the Software Life Cycle
 - 15:00-15:30 BREAK
-- 15:30-17:00 Workshop session 2
-
+- 15:30-16:15 Greening your Python Code
+- 16:15-17:00 Digital Sustainability Cards Game
+  
 ## Speakers and Trainers
-
 - [Lisa Otty](https://efi.ed.ac.uk/people/lisa-otty/), Centre for Data, Culture & Society
+- [Lucia Michielin](https://efi.ed.ac.uk/people/lucia-michielin/), Centre for Data, Culture & Society
+- [Jessica Witte](https://efi.ed.ac.uk/people/jessica-witte/), Centre for Data, Culture & Society
+- [Andy Turner](https://www.epcc.ed.ac.uk/about-us/our-team/dr-andrew-turner), EPCC
+- [Christopher Ohge](https://christopherohge.com/), School of Advanced Study, University of London
+
 
 ## On-the-day Slides and Instructions
+TBC
 
-Info blurb
