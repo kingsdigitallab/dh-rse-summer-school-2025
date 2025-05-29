@@ -4,7 +4,7 @@
 
 The practical sessions today will focus on the command line. This is one of the 'glue' skills for RSE work but is often picked up piecemeal, and not just by DH people: MIT have a [missing semester](https://missing.csail.mit.edu/) for Computer Science degrees, where the command line (or shell), features prominently.
 
-One of the benefits of command line knowledge it that much of it is transferable. If you find yourself on a machine, or even a server, where the software you're used to (Python, for example, or your favourite text editor) aren't available, there is a very good chance that what we cover today will be.
+One of the benefits of command line knowledge it that much of it is transferable. If you find yourself on a machine, or even a server, where the software you're used to (Python, for example, or your favourite text editor) isn't available, there is a very good chance that what we cover today will be.
 
 **Lead**: [Jonathan Blaney](https://www.cdh.cam.ac.uk/about/people/jonathan-blaney/)
 
@@ -20,9 +20,9 @@ We will expect Windows users to have the free Git Bash program installed. If you
 
 ### Downloads
 
-We will use some files for practice and then for the challenge session and we recommend downloading them in advance. From [Project Gutenberg](https://www.gutenberg.org/) we will be using their unwieldy plain text list of books and ebooks linked to as `GUTINDEX.ALL` on [this page](https://www.gutenberg.org/ebooks/offline_catalogs.html). Please also download a modified version of this file, where the key information is all one line, [from this repository](gutenberg.tsv).  
+We will use some files for practice and then for the challenge session and we recommend downloading them in advance. From [Project Gutenberg](https://www.gutenberg.org/) we will be using their unwieldy plain text list of books and ebooks linked to as `GUTINDEX.ALL` on [this page](https://www.gutenberg.org/ebooks/offline_catalogs.html). Please also download a modified version of this file, where the key information is all one line, [from this repository](gutenberg.tsv) (you will find it in the `Day 2` directory).  
 
-For the challenge we will be using the text of Milton's _Paradise Lost_. The text also comes from Project Gutenberg, but we recommend using a slightly cleaned up version, also [available on this repository](paradise-lost.txt).
+For the challenge we will be using the text of Milton's _Paradise Lost_. The text also comes from Project Gutenberg, but we recommend using a slightly cleaned up version, also [available on this repository](paradise-lost.txt) (also in the `Day 2`) directory.
 
 ### Preparation
 
@@ -47,8 +47,6 @@ However Git Bash does not come with a built-in manual so you may want to consult
 If you want to go further, there is a useful [table of commands](https://en.wikipedia.org/wiki/List_of_POSIX_commands) on Wikipedia, and [Daniel J. Barrett's](https://danieljbarrett.com/books/) _Linux Pocket Guide_ and _Efficient Linux at the Command Line_ are full of good information and not very Linux specific. 
 
 ## Schedule
-
-**Note: Please leave break times where they are. Within the session times you can carve it up however you like.**
 
 - 09:00-09:10 Mini-talk: Society of Research Software Engineering (Mary Chester-Kadwell)
 - 09.10-10:30 Humanities RSE work at Cambridge (Estara Arrant and Mike Hawkins)
