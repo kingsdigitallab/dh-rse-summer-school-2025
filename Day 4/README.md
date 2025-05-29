@@ -24,7 +24,6 @@ For the Green-coding exercise, we are going to use [Colab](https://colab.google/
 
 **Note: Please leave break times where they are. Within the session times you can carve it up however you like.**
 
-- 08:30-09:00 Registration
 - 09:00-09:10 Mini-talk: _TBC_ (_TBC_)
 - 09.10-10:30 Talks session 1
 - 10:30-11:00 COFFEE BREAK
