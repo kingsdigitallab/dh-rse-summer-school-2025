@@ -20,9 +20,9 @@ We will expect Windows users to have the free Git Bash program installed. If you
 
 ### Downloads
 
-We will use some files for practice and then for the challenge session and we recommend downloading them in advance. From [Project Gutenberg](https://www.gutenberg.org/) we will be using their unwieldy plain text list of books and ebooks linked to as `GUTINDEX.ALL` on [this page](https://www.gutenberg.org/ebooks/offline_catalogs.html). Please also download a modified version of this file, where the key information is all one line, [from this repository](gutenberg.tsv) (you will find it in the `Day 2` directory).  
+We will use some files for practice and then for the challenge session and we recommend downloading them in advance. From [Project Gutenberg](https://www.gutenberg.org/) we will be using their unwieldy plain text list of books and ebooks linked to as `GUTINDEX.ALL` on [this page](https://www.gutenberg.org/ebooks/offline_catalogs.html). Please also download a modified version of this file, `gutenberg.tsv`, where the key information is all on one line (you will find it in the `Day 2` directory listing, at the top of this page).  
 
-For the challenge we will be using the text of Milton's _Paradise Lost_. The text also comes from Project Gutenberg, but we recommend using a slightly cleaned up version, also [available on this repository](paradise-lost.txt) (also in the `Day 2`) directory.
+For the challenge we will be using the text of Milton's _Paradise Lost_. The text also comes from Project Gutenberg, but we recommend using a slightly cleaned up version, `paradise-lost.txt` (also in the `Day 2` directory listing at the top of the page).
 
 ### Preparation
 
