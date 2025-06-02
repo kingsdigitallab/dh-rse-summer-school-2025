@@ -13,30 +13,54 @@ The Summer School is a partnership between King's Digital Lab (King's College Lo
 [Jonathan Blaney](https://www.cdh.cam.ac.uk/about/people/jonathan-blaney/),
 [Lucia Michelin](https://www.cdcs.ed.ac.uk/about)
 
-## Schedule
+Work in progress: This repository is under construction and details will continue to be added closer to the event.
 
-This a general overview of the schedule. More information about each day is available in each day's specific folder.
+## Programme
+
+This a general overview of the agenda. More information about each day is available in each day's specific folder.
 
 ### Day 1: 30 June 2025 - King's Digital Lab
+**Software Development Life Cycle**
+
 *Talks*
+- Introduction to RSE in Digital Humanities
+- Introduction to the Software Development Lifecycle
+- Case studies of Digital Humanities projects
  
-*Workshops*
+*Workshop*
+- Software Development Life Cycle planning scenario – requirements elicitation
 
 ### Day 2: 1 July 2025 - Cambridge Digital Humanities
+**Digital Humanities at the Command Line**
+
 *Talks*
+- Humanities RSE work at Cambridge
+- The command line: principles and best practice
    
 *Workshops*
+- Command line group challenge: Building a complex pipeline
+- Distant reading with the command line and Python
 
 ### Day 3: 2 July 2025 - King's College London e-Research
-*Talks*
- 
-*Workshops*
+**High Performance Computing for Digital Humanities**
 
+*Talks*
+- Case studies using HPC in Digital Humanities Research
+- Principles of High Performance Computing for digital humanists 
+
+*Workshop*
+- Introduction to High Performance Computing with CREATE HPC
 
 ### Day 4: 3 July 2025 - Centre for Data, Culture & Society
+**Responsible Digital Research**
+
 *Talks*
+- Welcome and introduction to the work of the Centre for Data, Culture & Society and the Digital Humanities Climate Coalition
+- Responsible Data Collection
+- Estimating carbon emissions from high performance computing
+- Minimal Computing for Digital Research and Publishing
  
 *Workshops*
-
-
-This repository is under construction and details will continue to be added closer to the event. 
+- Greening the Software Life Cycle
+- Greening your Python Code
+- Digital Sustainability Cards Game
