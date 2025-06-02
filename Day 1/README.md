@@ -15,7 +15,7 @@ Please check back for preparation instructions.
 - 08:30-09:00 Registration
 - 09:00-09:05 Opening & logistics (Mary Chester-Kadwell)
 - 09:05-09:10 Welcome to King's College London (Stuart Dunn)
-- 09.10-09:40 Introduction to RSE in Digital Humanities (Ariann Ciula)
+- 09.10-09:40 Introduction to RSE in Digital Humanities (Arianna Ciula)
 - 09:40-10:30 Introduction to the Software Development Lifecycle (Neil Jakeman)
 - 10:30-11:00 BREAK
 - 11:00-11:45 Case studies of Digital Humanities projects (Neil Jakeman, Janna Joceli Omena)
