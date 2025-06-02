@@ -25,11 +25,11 @@ For the Green-coding exercise, we are going to use [Colab](https://colab.google/
 ## Schedule
 
 - 09:00-09:10 Mini-talk: UKIE DH Association
-- 09.10-09:45 _Welcome and introduction to the work of the Centre for Data, Culture & Society and the Digital Humanities Climate Coalition_ **L. Otty**
-- 09:45-10:30 _Responsible Data Collection_ **L. Michielin** & **J. Witte**
+- 09.10-09:45 Welcome and introduction to the work of the Centre for Data, Culture & Society and the Digital Humanities Climate Coalition (Lisa Otty)
+- 09:45-10:30 Responsible Data Collection (Lucai Michielin and Jessica Witte)
 - 10:30-11:00 COFFEE BREAK
-- 11:00-11:45 _Estimating carbon emissions from high performance computing_ **A. Turner**
-- 11:45-12:30 _Minimal Computing for Digital Research and Publishing_ **C. Ohge**
+- 11:00-11:45 Estimating carbon emissions from high performance computing (Andy Turner)
+- 11:45-12:30 Minimal Computing for Digital Research and Publishing (Christopher Ohge)
 - 12:30-13:30 LUNCH
 - 13:30-15:00 Greening the Software Life Cycle
 - 15:00-15:30 BREAK
@@ -40,10 +40,9 @@ For the Green-coding exercise, we are going to use [Colab](https://colab.google/
 - [Lisa Otty](https://efi.ed.ac.uk/people/lisa-otty/), Centre for Data, Culture & Society
 - [Lucia Michielin](https://efi.ed.ac.uk/people/lucia-michielin/), Centre for Data, Culture & Society
 - [Jessica Witte](https://efi.ed.ac.uk/people/jessica-witte/), Centre for Data, Culture & Society
-- [Andy Turner](https://www.epcc.ed.ac.uk/about-us/our-team/dr-andrew-turner), EPCC
+- [Andy Turner](https://www.epcc.ed.ac.uk/about-us/our-team/dr-andrew-turner), EPCC, University of Edinburgh
 - [Christopher Ohge](https://christopherohge.com/), School of Advanced Study, University of London
 
-
 ## On-the-day Slides and Instructions
-TBC
 
+Please check back for more information in due course.
