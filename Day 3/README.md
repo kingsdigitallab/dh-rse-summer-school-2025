@@ -4,11 +4,11 @@
 
 High-performance computing (HPC) provides researchers and research software engineers with the computational power needed to process large datasets, perform complex analyses, and process extensive collections of texts or images. In digital humanities, HPC is particularly useful for tasks such as natural language processing, machine learning, or working with digital archives that exceed the capacity of standard personal computers. Learning to use HPC resources is increasingly important for handling computationally intensive methods, collaborating on large-scale projects, and efficiently addressing research questions that require significant processing capabilities. 
 
-**Leads**: [Neil Jakeman](https://kdl.kcl.ac.uk/about/people/neil-jakeman/), [James Graham](https://www.kcl.ac.uk/people/james-graham)
+**Leads**: [James Graham](https://www.kcl.ac.uk/people/james-graham), [Neil Jakeman](https://kdl.kcl.ac.uk/about/people/neil-jakeman/)
 
 ## Pre-Workshop Preparation
 
-Please check back soon for preparation.
+For this day's session you will again need to use command line utilities. The shells programmes you used on Tuesday should already be suitable for these tasks. However, in contrast to Tuesday's instructions, we *will* be supporting Powershell as an option for Windows users.
 
 ## Schedule
 
