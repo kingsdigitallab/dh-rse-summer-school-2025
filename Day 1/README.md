@@ -28,8 +28,9 @@ Project Case studies will be used to illustrate concepts in the SDLC, many of wh
 - 08:30-09:00 Registration
 - 09:00-09:05 Opening & logistics (Mary Chester-Kadwell)
 - 09:05-09:10 Welcome to King's College London (Stuart Dunn)
-- 09.10-09:40 Introduction to RSE in Digital Humanities (Arianna Ciula)
-- 09:40-10:30 _title TBC_ (Anna-Maria Sichani)
+- 09.10-09:45 Introduction to RSE in Digital Humanities (Arianna Ciula)
+- 09:45-10:15 Community and capacity building around RSE in A&H (Anna-Maria Sichani)
+- 10:15-10:30 Fun activitiy TBC
 - 10:30-11:00 BREAK
 - 11:00-11:45 Case studies of Digital Humanities projects (Neil Jakeman, Janna Joceli Omena)
 - 11:45-12:30 Introduction to the Software Development Lifecycle (Neil Jakeman)
