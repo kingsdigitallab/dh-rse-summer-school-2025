@@ -44,16 +44,16 @@ For the Green-coding exercise, we are going to use [Colab](https://colab.google/
 - [Christopher Ohge](https://christopherohge.com/), School of Advanced Study, University of London
 
 ## Abstracts
-### Introduction *Lisa Otty*
+### Introduction *(Lisa Otty)*
 To kick off the day, we are going to hear about the work currently done by the Centre for Data Culture and Society and the DHCC. We are going to explore the importance of maintaining a humanities approach to Digital Research, and how this approach encourages us to think about the social, ethical and environmental impact of our work.
   
-### Responsible Data Collection  *Lucia Michielin & Jessica Witte*
+### Responsible Data Collection  *(Lucia Michielin & Jessica Witte)*
 During the first talk of the day, we are going to hear about limitations and good enough practice to find, collect and organise research data in an ethical way. From the issues that arose from the post-API era to the problem of assuring your data is FAIR and at the same time, it does not break GDPR regulations, we are going to explore what the easy pitfalls you can encounter during data collection are. 
 
-### Estimating carbon emissions from high-performance computing *Andy Turner*
+### Estimating carbon emissions from high-performance computing *(Andy Turner)*
 In this presentation, we will see how EPCC has enabled users to estimate carbon emissions from the use of the UK National Supercomputing Service, ARCHER2. We will also cover what strategies are available to reduce carbon emissions from the use of high-performance computing (spoiler alert: you need to do less computing!).
 
-### Minimal Computing for Digital Research and Publishing *Christopher Ohge*
+### Minimal Computing for Digital Research and Publishing *(Christopher Ohge)*
 Using a case study of the presenter’s project, the [Herman Melville Electronic Library](https://melville.electroniclibrary.org/), this seminar will show how the project was initially conceived and how it was redesigned using minimal computing principles. It suggests that ‘good enough’ digital editions need to be the product of an iterative process. It concludes with a brief presentation of the [Digital Humanities Climate Coalition Toolkit](https://sas-dhrh.github.io/dhcc-toolkit/), which informed much of this work and provides ideas for new directions.
 
 ## On-the-day Slides and Instructions
