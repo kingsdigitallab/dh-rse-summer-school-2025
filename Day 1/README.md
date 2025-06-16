@@ -29,10 +29,10 @@ Project Case studies will be used to illustrate concepts in the SDLC, many of wh
 - 09:00-09:05 Opening & logistics (Mary Chester-Kadwell)
 - 09:05-09:10 Welcome to King's College London (Stuart Dunn)
 - 09.10-09:40 Introduction to RSE in Digital Humanities (Arianna Ciula)
-- 09:40-10:30 Introduction to the Software Development Lifecycle (Neil Jakeman)
+- 09:40-10:30 _title TBC_ (Anna-Maria Sichani)
 - 10:30-11:00 BREAK
 - 11:00-11:45 Case studies of Digital Humanities projects (Neil Jakeman, Janna Joceli Omena)
-- 11:45-12:30 _title TBC_ (Anna-Maria Sichani)
+- 11:45-12:30 Introduction to the Software Development Lifecycle (Neil Jakeman)
 - 12:30-13:30 LUNCH
 - 13:30-15:00 Software Development Life Cycle planning scenario – requirements elicitation - session 1
 - 15:00-15:30 BREAK
