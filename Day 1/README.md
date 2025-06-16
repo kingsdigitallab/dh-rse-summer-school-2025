@@ -2,13 +2,20 @@
 
 ## Software Development Life Cycle
 
-Understanding the Software Development Life Cycle (SDLC) is an essential skill for managing digital humanities (DH) projects effectively, or indeed, any digital project. The SDLC provides a structured framework that guides the development process from initial conception through development to deployment and maintenance. By adopting a systematic approach, researchers and research software engineers can ensure that project objectives are clearly defined, resources are efficiently allocated, and potential risks are identified and mitigated early on. This methodology enhances the quality and sustainability of digital outputs and fosters better collaboration among interdisciplinary teams. Incorporating SDLC practices into DH projects leads to more robust, maintainable, and impactful research outcomes. 
+Understanding the Software Development Life Cycle (SDLC) is an essential skill for managing digital humanities (DH) projects effectively, or indeed, any digital project. The SDLC provides a structured framework that guides the development process from initial conception through development to deployment and maintenance. By adopting a systematic approach, researchers and research software engineers can ensure that project objectives are clearly defined, resources are efficiently allocated, and potential risks are identified and mitigated early on. This methodology enhances the quality and sustainability of digital outputs and fosters better collaboration among interdisciplinary teams. Incorporating SDLC practices into DH projects leads to more robust, maintainable, and impactful research outcomes. The training part of this day will focus on the **Analyst** role within a the RSE development team. This function in the team structure has coordinating role within the development team, and responsibilities can manifest in different ways depending on the research project.
 
 **Leads**: [Neil Jakeman](https://kdl.kcl.ac.uk/about/people/neil-jakeman/), [Mary Chester-Kadwell](https://kdl.kcl.ac.uk/about/people/mary-chester-kadwell/)
 
-## Pre-Workshop Preparation
+## Pre-Workshop Reading
 
-Please check back for preparation instructions.
+Whilst there are no specific software installations required to participate effectively in this day, we provide here a few items of background reading which may help to set the context for some of sessions.
+
+### SDLC 
+Many of the SDLC processes used at KDL are documented in a GitHub Wiki. This summary of the KDL SDLC approach is intended to be aliving document and adaptable to other research settings:
+[https://github.com/kingsdigitallab/sdlc-for-rse/wiki](https://github.com/kingsdigitallab/sdlc-for-rse/wiki)
+### RSE Careers and roles
+Arianna Ciula will speak in part about the changing status of Research Software Engineering as it has evolved over recent years. This series of blog posts serves as a helpful starting point to understand the current landsccape:
+[https://kdl.kcl.ac.uk/blog/rtp-rse/](https://kdl.kcl.ac.uk/blog/rtp-rse/)
 
 ## Schedule
 
