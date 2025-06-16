@@ -13,9 +13,15 @@ Whilst there are no specific software installations required to participate effe
 ### SDLC 
 Many of the SDLC processes used at KDL are documented in a GitHub Wiki. This summary of the KDL SDLC approach is intended to be aliving document and adaptable to other research settings:
 [https://github.com/kingsdigitallab/sdlc-for-rse/wiki](https://github.com/kingsdigitallab/sdlc-for-rse/wiki)
+
 ### RSE Careers and roles
 Arianna Ciula will speak in part about the changing status of Research Software Engineering as it has evolved over recent years. This series of blog posts serves as a helpful starting point to understand the current landsccape:
 [https://kdl.kcl.ac.uk/blog/rtp-rse/](https://kdl.kcl.ac.uk/blog/rtp-rse/)
+
+### DH Projects
+Project Case studies will be used to illustrate concepts in the SDLC, many of which are drawn from the KDL back catalogue which can be found at the following link.
+[https://kdl.kcl.ac.uk/projects/](https://kdl.kcl.ac.uk/projects/)
+
 
 ## Schedule
 
