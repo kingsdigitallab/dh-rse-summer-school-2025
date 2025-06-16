@@ -53,7 +53,7 @@ During the first talk of the day, we are going to hear about limitations and goo
 ### Estimating carbon emissions from high-performance computing *Andy Turner*
 In this presentation, we will see how EPCC has enabled users to estimate carbon emissions from the use of the UK National Supercomputing Service, ARCHER2. We will also cover what strategies are available to reduce carbon emissions from the use of high-performance computing (spoiler alert: you need to do less computing!).
 
-### Estimating carbon emissions from high-performance computing *Andy Turner*
+### Minimal Computing for Digital Research and Publishing *Christopher Ohge*
 Using a case study of the presenter’s project, the [Herman Melville Electronic Library](https://melville.electroniclibrary.org/), this seminar will show how the project was initially conceived and how it was redesigned using minimal computing principles. It suggests that ‘good enough’ digital editions need to be the product of an iterative process. It concludes with a brief presentation of the [Digital Humanities Climate Coalition Toolkit](https://sas-dhrh.github.io/dhcc-toolkit/), which informed much of this work and provides ideas for new directions.
 
 ## On-the-day Slides and Instructions
