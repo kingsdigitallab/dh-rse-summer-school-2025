@@ -26,7 +26,7 @@ For this day's session you will again need to use command line utilities. The sh
 
 - [Oscar Seip](https://www.software.ac.uk/our-people/oscar-seip), Software Sustainability Institute
 - [Mark Hill](https://www.kcl.ac.uk/people/mark-j.-hill), King's College London
-- [Daniel Chevaz Heras](https://www.kcl.ac.uk/people/daniel-chavez-heras), King's College London
+- [Daniel Chavez Heras](https://www.kcl.ac.uk/people/daniel-chavez-heras), King's College London
 - [Liz Ing-Simmons](https://www.kcl.ac.uk/people/liz-ing-simmons), King's College London
 - [Max Wyatt](https://www.kcl.ac.uk/people/max-wyatt), King's College London
 
