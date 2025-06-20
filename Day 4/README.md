@@ -48,7 +48,7 @@ For the Green-coding exercise, we are going to use [Colab](https://colab.google/
 To kick off the day, we are going to hear about the work currently done by the Centre for Data Culture and Society and the DHCC. We are going to explore the importance of maintaining a humanities approach to Digital Research, and how this approach encourages us to think about the social, ethical and environmental impact of our work.
   
 ### Responsible Data Collection  *(Lucia Michielin & Jessica Witte)*
-a lightly edited version: During the first talk of the day, we will discuss good (enough) practices in working with research data. Throughout the process of finding, collecting, and organising data, we can encounter a range of practical and ethical challenges in ensuring that we consider FAIR principles and GDPR compliance. We will explore some of these common pitfalls and how to negotiate them throughout the data pipeline.
+During the first talk of the day, we will discuss good (enough) practices in working with research data. Throughout the process of finding, collecting, and organising data, we can encounter a range of practical and ethical challenges in ensuring that we consider FAIR principles and GDPR compliance. We will explore some of these common pitfalls and how to negotiate them throughout the data pipeline.
  
 ### Estimating carbon emissions from high-performance computing *(Andy Turner)*
 In this presentation, we will see how EPCC has enabled users to estimate carbon emissions from the use of the UK National Supercomputing Service, ARCHER2. We will also cover what strategies are available to reduce carbon emissions from the use of high-performance computing (spoiler alert: you need to do less computing!).
