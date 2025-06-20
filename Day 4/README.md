@@ -24,7 +24,7 @@ For the Green-coding exercise, we are going to use [Colab](https://colab.google/
 
 ## Schedule
 
-- 09:00-09:10 Mini-talk: UKIE DH Association
+- 09:00-09:10 Introduction to the DISKAH Programme (Myrsini Samaroudi and Karina Rodriguez Echavarria)
 - 09.10-09:45 Welcome and introduction to the work of the Centre for Data, Culture & Society and the Digital Humanities Climate Coalition (Lisa Otty)
 - 09:45-10:30 Responsible Data Collection (Lucia Michielin and Jessica Witte)
 - 10:30-11:00 COFFEE BREAK
