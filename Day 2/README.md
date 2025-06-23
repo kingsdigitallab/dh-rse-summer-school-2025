@@ -6,7 +6,7 @@ The practical sessions today will focus on the command line. This is one of the 
 
 One of the benefits of command line knowledge it that much of it is transferable. If you find yourself on a machine, or even a server, where the software you're used to (Python, for example, or your favourite text editor) isn't available, there is a very good chance that what we cover today will be.
 
-**Lead**: [Jonathan Blaney](https://www.cdh.cam.ac.uk/about/people/jonathan-blaney/)
+**Leads**: [Jonathan Blaney](https://www.cdh.cam.ac.uk/about/people/jonathan-blaney/), [Ryan Heuser](https://www.cdh.cam.ac.uk/about/people/dr-ryan-heuser/)
 
 ## Pre-Workshop Preparation
 
@@ -16,7 +16,7 @@ You will need three things for the day: a laptop, a Unix terminal program and a 
 
 If you have a Mac or Linux laptop then you don't need to install anything. If using a Mac, you may optionally install [iTerm2](https://iterm2.com/), which is a bit more user-friendly than the built-in Terminal program, and is what we will use to demonstrate. However this is mostly cosmetic and Terminal will meet your needs perfectly well.
 
-We will expect Windows users to have the free Git Bash program installed. If you have Windows Subsystem for Linux enabled, you should already have it. If not, you can install it as part of [Git for Windows](https://gitforwindows.org/). Please check that it is working before the day. We will **not** be using or supporting PowerShell or DOS, the command line programs that come with Windows 11, because the commands differ substantially.
+We will expect Windows users to have the free Git Bash program installed. If you have Windows Subsystem for Linux enabled, you should already have it. If not, you can install Git Bash as part of [Git for Windows](https://gitforwindows.org/). Please check that it is working before the day. We will **not** be using or supporting PowerShell or DOS, the command line programs that come with Windows 11, because the commands differ substantially.
 
 ### Downloads
 
@@ -59,9 +59,10 @@ If you want to go further, there is a useful [table of commands](https://en.wiki
 
 ## Speakers and Trainers
 
-- [Ryan Heuser](https://www.cdh.cam.ac.uk/about/people/dr-ryan-heuser/), Cambridge Digital Humanities
 - [Estara Arrant](https://www.lib.cam.ac.uk/collections/departments/taylor-schechter-genizah-research-unit/unit-staff/dr-estara-arrant), Leverhulme Early Career Research Fellow, University of Cambridge
+- [Jonathan Blaney](https://www.cdh.cam.ac.uk/about/people/jonathan-blaney/), Cambridge Digital Humanities
 - [Mike Hawkins](https://www.cdh.cam.ac.uk/about/people/dr-michael-hawkins/), Senior Developer, Cambridge University Library
+- [Ryan Heuser](https://www.cdh.cam.ac.uk/about/people/dr-ryan-heuser/), Cambridge Digital Humanities
 
 ## Abstracts
 
