@@ -16,7 +16,7 @@ You will need three things for the day: a laptop, a Unix terminal program and a 
 
 If you have a Mac or Linux laptop then you don't need to install anything. If using a Mac, you may optionally install [iTerm2](https://iterm2.com/), which is a bit more user-friendly than the built-in Terminal program, and is what we will use to demonstrate. However this is mostly cosmetic and Terminal will meet your needs perfectly well.
 
-We will expect Windows users to have the free Git Bash program installed. If you have Windows Subsystem for Linux enabled, you should already have it. If not, you can install Git Bash as part of [Git for Windows](https://gitforwindows.org/). Please check that it is working before the day. We will **not** be using or supporting PowerShell or DOS, the command line programs that come with Windows 11, because the commands differ substantially.
+We will expect Windows users to have the free Git Bash program installed. If you have Windows Subsystem for Linux enabled, you should already have it. If not, you can install Git Bash as part of [Git for Windows](https://git-scm.com/). This is a [good guide to installing](https://apxml.com/courses/getting-started-with-git/chapter-1-intro-version-control-git/install-git-windows). Please check that Git Bash is working before the day. We will **not** be using or supporting PowerShell or DOS, the command line programs that come with Windows 11, because the commands differ substantially.
 
 ### Downloads
 
