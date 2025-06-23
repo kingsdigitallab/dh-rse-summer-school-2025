@@ -37,6 +37,8 @@ For the Green-coding exercise, we are going to use [Colab](https://colab.google/
 - 16:15-17:00 Digital Sustainability Cards Game
   
 ## Speakers and Trainers
+- [Myrsini Samaroudi](https://research.brighton.ac.uk/en/persons/myrsini-samaroudi-2), University of Brighton
+- [Karina Rodriguez-Echavarria](https://research.brighton.ac.uk/en/persons/karina-rodriguez-echavarria), University of Brighton
 - [Lisa Otty](https://efi.ed.ac.uk/people/lisa-otty/), Centre for Data, Culture & Society
 - [Lucia Michielin](https://efi.ed.ac.uk/people/lucia-michielin/), Centre for Data, Culture & Society
 - [Jessica Witte](https://efi.ed.ac.uk/people/jessica-witte/), Centre for Data, Culture & Society
