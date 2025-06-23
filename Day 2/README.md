@@ -63,6 +63,20 @@ If you want to go further, there is a useful [table of commands](https://en.wiki
 - [Estara Arrant](https://www.lib.cam.ac.uk/collections/departments/taylor-schechter-genizah-research-unit/unit-staff/dr-estara-arrant), Leverhulme Early Career Research Fellow, University of Cambridge
 - [Mike Hawkins](https://www.cdh.cam.ac.uk/about/people/dr-michael-hawkins/), Senior Developer, Cambridge University Library
 
+## Abstracts
+
+### Estara's talk
+
+I will be speaking on the challenges, high points, and experiences of navigating a data science/research software engineering career in the Humanities from a solo researcher perspective. I will also discuss the challenges of  effectively communicating and collaborating in such a cross-disciplinary environment. In particular, I will cover include my entry into this area, how I am maintaining and further developing my skills, and the future paths are  potentially available. I will touch upon ways in which I think people can effectively enter and navigate this field, with a view to its developments."
+
+### Mike's talk
+
+'An Accidental Digital Humanist'
+
+There are many different pathways into a career in the Digital Humanities. This is not surprising considering that the ‘digital humanities’ in most universities has a long and varied history that predates the establishment of official centres and degree programmes. The University of Cambridge is no exception. This helps to explain how a historian of early modern science ended up working for over twenty years on a wide range of digital projects. In my talk, I’ll discuss my activities on some of the key projects I’ve worked on at Cambridge, such as the [Casebooks Project](https://casebooks.lib.cam.ac.uk/), the [Darwin Correspondence Project](https://www.darwinproject.ac.uk/), and [Unlocking Digital Texts](https://textframe.io/), as well as my current duties as a Senior Developer at the Cambridge University Library.
+
+
+
 ## On-the-day Slides and Instructions
 
 These will be added shortly
