@@ -32,8 +32,8 @@ Project Case studies will be used to illustrate concepts in the SDLC, many of wh
 - 09:45-10:15 Community and capacity building around RSE in A&H (Anna-Maria Sichani)
 - 10:15-10:30 Fun activitiy TBC
 - 10:30-11:00 BREAK
-- 11:00-11:45 Case studies of Digital Humanities projects (Neil Jakeman, Janna Joceli Omena)
-- 11:45-12:30 Introduction to the Software Development Lifecycle (Neil Jakeman)
+- 11:00-11:45 Introduction to the Software Development Lifecycle (Neil Jakeman)
+- 11:45-12:30 Case studies of Digital Humanities projects (Neil Jakeman, Janna Joceli Omena)
 - 12:30-13:30 LUNCH
 - 13:30-15:00 Software Development Life Cycle planning scenario – requirements elicitation - session 1
 - 15:00-15:30 BREAK
