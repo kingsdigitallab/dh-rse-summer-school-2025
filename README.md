@@ -13,7 +13,7 @@ The Summer School is a partnership between King's Digital Lab (King's College Lo
 [Jonathan Blaney](https://www.cdh.cam.ac.uk/about/people/jonathan-blaney/),
 [Lucia Michelin](https://www.cdcs.ed.ac.uk/about)
 
-Work in progress: This repository is under construction and details will continue to be added closer to the event.
+Work in progress: This repository is under construction and details will continue to be added during the event.
 
 ## Programme
 
@@ -24,6 +24,7 @@ This a general overview of the agenda. More information about each day is availa
 
 *Talks*
 - Introduction to RSE in Digital Humanities
+- Community and capacity building around RSE in A&H
 - Introduction to the Software Development Lifecycle
 - Case studies of Digital Humanities projects
  
