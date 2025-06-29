@@ -80,4 +80,4 @@ There are many different pathways into a career in the Digital Humanities. This 
 
 ## On-the-day Slides and Instructions
 
-These will be added shortly
+A PDF of the slides, including instructions for the challenge, is in the directory listing for Day 2. You may find it useful to have this on hand during the day.
