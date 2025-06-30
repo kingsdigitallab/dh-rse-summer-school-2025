@@ -33,8 +33,8 @@ For the Green-coding exercise, we are going to use [Colab](https://colab.google/
 - 12:30-13:30 LUNCH
 - 13:30-15:00 Greening the Software Life Cycle
 - 15:00-15:30 BREAK
-- 15:30-16:15 Greening your Python Code
-- 16:15-17:00 Digital Sustainability Cards Game
+- 15:30-16:00 Greening your Python Code
+- 16:00-17:00 Digital Sustainability Cards Game
   
 ## Speakers and Trainers
 - [Myrsini Samaroudi](https://research.brighton.ac.uk/en/persons/myrsini-samaroudi-2), University of Brighton
@@ -61,3 +61,10 @@ Using a case study of the presenter’s project, the [Herman Melville Electronic
 ## On-the-day Slides and Instructions
 
 Please check back for more information in due course.
+
+## Further Reading & Resources
+- [Risky Research: an AoIR Guide to Researcher Protection and Safety (2025)](https://tiara.org/wp-content/uploads/2025/04/AOIR-Risky-Research-Guide_2025.pdf)
+- [Internet Research: Ethical Guidelines 3.0 (2019)​](https://aoir.org/reports/ethics3.pdf)
+- [Web Data Research Assistant, a Chrome plugin](https://www.southampton.ac.uk/~lac/WebDataResearchAssistant/)
+- [Zeeschuimer plugin for Firefox](https://github.com/digitalmethodsinitiative/zeeschuimer)
+- [4CAT: Capture and Analysis Toolkit](https://4cat.nl/)
