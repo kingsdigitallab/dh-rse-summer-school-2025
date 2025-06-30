@@ -48,4 +48,6 @@ Project Case studies will be used to illustrate concepts in the SDLC, many of wh
 
 ## On-the-day Slides and Instructions
 
+[Introduction to RSE in Digital Humanities (Arianna Ciula)](https://github.com/kingsdigitallab/dh-rse-summer-school-2025/blob/main/Day%201/aciula_2025.pdf)
+
 Please check back for more.
