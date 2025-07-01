@@ -68,3 +68,5 @@ Please check back for more information in due course.
 - [Web Data Research Assistant, a Chrome plugin](https://www.southampton.ac.uk/~lac/WebDataResearchAssistant/)
 - [Zeeschuimer plugin for Firefox](https://github.com/digitalmethodsinitiative/zeeschuimer)
 - [4CAT: Capture and Analysis Toolkit](https://4cat.nl/)
+- [Green Algorithms](https://www.green-algorithms.org/)
+- [Green Algorithms: Quantifying the Carbon Footprint of Computation](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202100707)
