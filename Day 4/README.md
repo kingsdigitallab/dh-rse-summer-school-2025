@@ -59,8 +59,7 @@ In this presentation, we will see how EPCC has enabled users to estimate carbon 
 Using a case study of the presenter’s project, the [Herman Melville Electronic Library](https://melville.electroniclibrary.org/), this seminar will show how the project was initially conceived and how it was redesigned using minimal computing principles. It suggests that ‘good enough’ digital editions need to be the product of an iterative process. It concludes with a brief presentation of the [Digital Humanities Climate Coalition Toolkit](https://sas-dhrh.github.io/dhcc-toolkit/), which informed much of this work and provides ideas for new directions.
 
 ## On-the-day Slides and Instructions
-
-Please check back for more information in due course.
+You can find the .pdf of the presentation of Day 4 in the 'Presentations' folder
 
 ## Further Reading & Resources
 - [Risky Research: an AoIR Guide to Researcher Protection and Safety (2025)](https://tiara.org/wp-content/uploads/2025/04/AOIR-Risky-Research-Guide_2025.pdf)
