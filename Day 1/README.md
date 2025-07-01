@@ -54,5 +54,7 @@ Project Case studies will be used to illustrate concepts in the SDLC, many of wh
 - [SDLC Roles in DH RSE (Neil Jakeman)](https://github.com/kingsdigitallab/dh-rse-summer-school-2025/blob/main/Day%201/Summer%20School%20KDL%20SLDC%20Roles.pdf)
 - [Case Studies and Cautionary Tales (Neil Jakeman)](https://github.com/kingsdigitallab/dh-rse-summer-school-2025/blob/main/Day%201/Summer%20School%20KDL%20Problem%20Projects.pdf)
 - [Co-Developing Software for Digital Methods (Janna Joceli Omena)](https://github.com/kingsdigitallab/dh-rse-summer-school-2025/blob/main/Day%201/Technical%20Expertise%20in%20Co-Developing%20Software%20for%20Digital%20Methods%20Research.pdf)
+- [Process diagrams and data models](https://github.com/kingsdigitallab/dh-rse-summer-school-2025/blob/main/Day%201/Summer%20School%20KDL%20SLDC%20Process%20Diagrams.pptx)
+-[Requirements elicitation](https://github.com/kingsdigitallab/dh-rse-summer-school-2025/blob/main/Day%201/Summer%20School%20KDL%20Requirements%20Elicitation.pptx)
 
 Please check back for more.
