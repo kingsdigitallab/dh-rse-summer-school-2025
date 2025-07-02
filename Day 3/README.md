@@ -32,4 +32,4 @@ For this day's session you will again need to use command line utilities. The sh
 
 ## On-the-day Slides and Instructions
 
-Check back for more details.
+- [Software Sustainability Institute - Fellowship Programme 2025 (Oscar Seip)](https://zenodo.org/records/15789159) Also: [blog that introduces this year's Fellows](https://www.software.ac.uk/news/introducing-2025-fellowship-cohort-insights-and-celebrations) with many people working in DH.
