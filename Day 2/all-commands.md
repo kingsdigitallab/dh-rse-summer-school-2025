@@ -27,7 +27,7 @@
 - `echo $PATH` check what our path is
 - `history | grep` check for what we did previously; for Mac you will need `history 0 | grep'`
 
-Finally, here's the bash script, which you can save as something like `download-epub.sh` and run from the same directory with `bash ./download-epub.sh`:
+Finally, here's the bash script, which you can save as something like `download-epub.sh` and run from the same directory with `bash ./download-epub.sh`. If you do run it, remember to give two arguments: the Gutenberg ID and the name of the file you want to be created, without a termination. So in our example of Don Quixote `bash ./download-epub.sh 2000 don-quixote` will download a file named `don-quixote.epub`.
 
 ```bash
 #!/bin/bash
