@@ -66,6 +66,3 @@ This a general overview of the agenda. More information about each day is availa
 - Greening your Python Code
 - Digital Sustainability Cards Game
 
-*Presentations*
-- [Daniel Chavez Heras - Moving image analysis](https://slides.movingpixel.net/rendered/CMIS/#/)
-- [Mark J. Hill - HPC in the Humanities](https://github.com/kingsdigitallab/dh-rse-summer-school-2025/blob/main/Day%203/HPC%20in%20the%20Humanities%20-%20RSE%202025.pdf)
