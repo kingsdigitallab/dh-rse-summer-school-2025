@@ -49,7 +49,7 @@ Project Case studies will be used to illustrate concepts in the SDLC, many of wh
 ## On-the-day Slides and Instructions
 
 - [Introduction to RSE in Digital Humanities (Arianna Ciula)](https://github.com/kingsdigitallab/dh-rse-summer-school-2025/blob/main/Day%201/aciula_2025.pdf)
-- [Community and capacity building around RSE in A&H (Anna-Maria Sichani)](https://github.com/kingsdigitallab/dh-rse-summer-school-2025/blob/main/Day%201/Anna-Maria-RSE_AH_RSEsummerschool2025.pptx)
+- [Community and capacity building around RSE in A&H (Anna-Maria Sichani)](https://github.com/kingsdigitallab/dh-rse-summer-school-2025/blob/main/Day%201/RSE_AH_RSEsummerschool2025.pdf)
 - [Why are we here? (Neil Jakeman)](https://github.com/kingsdigitallab/dh-rse-summer-school-2025/blob/main/Day%201/Summer%20School%20KDL%20Intro%20Slides%20and%20SDLC%202025.pdf)
 - [SDLC Roles in DH RSE (Neil Jakeman)](https://github.com/kingsdigitallab/dh-rse-summer-school-2025/blob/main/Day%201/Summer%20School%20KDL%20SLDC%20Roles.pdf)
 - [Case Studies and Cautionary Tales (Neil Jakeman)](https://github.com/kingsdigitallab/dh-rse-summer-school-2025/blob/main/Day%201/Summer%20School%20KDL%20Problem%20Projects.pdf)
