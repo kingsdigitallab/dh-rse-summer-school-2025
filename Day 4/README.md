@@ -61,6 +61,8 @@ Using a case study of the presenter’s project, the [Herman Melville Electronic
 ## On-the-day Slides and Instructions
 You can find the .pdf of the presentation of Day 4 in the 'Presentations' folder
 
+- [DISKAH Programme](https://github.com/kingsdigitallab/dh-rse-summer-school-2025/blob/main/Day%204/Presentations/DISKAH_RSESummerSchool25.pdf)
+
 ## Further Reading & Resources
 - [Risky Research: an AoIR Guide to Researcher Protection and Safety (2025)](https://tiara.org/wp-content/uploads/2025/04/AOIR-Risky-Research-Guide_2025.pdf)
 - [Internet Research: Ethical Guidelines 3.0 (2019)​](https://aoir.org/reports/ethics3.pdf)
