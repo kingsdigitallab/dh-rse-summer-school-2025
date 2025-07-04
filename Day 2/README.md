@@ -80,4 +80,6 @@ There are many different pathways into a career in the Digital Humanities. This 
 
 ## On-the-day Slides and Instructions
 
+- [Mini-talk: Society of Research Software Engineering](https://github.com/kingsdigitallab/dh-rse-summer-school-2025/blob/main/Day%202/SocRSE%20Presentation%20-%20DH%26RSE%20Summer%20School%201%20July%202025.pdf) (Mary Chester-Kadwell)
+
 A PDF of the slides, including instructions for the challenge, is in the directory listing for Day 2. You may find it useful to have this on hand during the day.
