@@ -10,6 +10,8 @@ High-performance computing (HPC) provides researchers and research software engi
 
 For this day's session you will again need to use command line utilities. The shells programmes you used on Tuesday should already be suitable for these tasks. However, in contrast to Tuesday's instructions, we *will* be supporting Powershell as an option for Windows users.
 
+Learning content for HPC activities can be found [here](https://kcl-eresearch.github.io/High-Performance-Computing-for-Digital-Humanities/)
+
 ## Schedule
 
 - 09:00-09:10 Mini-talk: Software Sustainability Institute (Oscar Seip)
